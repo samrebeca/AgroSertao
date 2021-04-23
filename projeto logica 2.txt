@@ -1,0 +1,11 @@
+-----galinha-----
+**BOTAR A QUANTIDADE DE BANDEJAS
+total = peso medio * quantidade de animais * preço de corte/kilo 
+ganho = (preço por bandeja * quantidade de bandeja) - gastos
+perda
+** MUDAR "Preço dos gastos" PARA "Preço do total de gastos"
+
+-----vaca------
+**BOTAR A QUANTIDADE DE LITROS DO LEITE
+total = quantidade de animais * peso médio * preço de corte
+ganho = (preço por litro de leite * quantidade de listros do leite) - gastos
